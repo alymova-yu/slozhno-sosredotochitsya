@@ -11,6 +11,7 @@
 }
 
 .page.theme_dark {
+  background-color: var(--subtitle-color);
   background-image: url(../images/cover-image-dark.png);
 }
 
