@@ -1,5 +1,5 @@
 :root {
-  --title-text:#DB00FF;
+  --title-text: #db00ff;
   --accent-color: #ff006f;
   --button-color: var(--accent-color);
   --shadow-color: var(--accent-color);
@@ -12,5 +12,4 @@
   --font-main: IBM Plex Mono;
   --font-size-normal: 18px;
   --space: 20px;
-
-} 
+}

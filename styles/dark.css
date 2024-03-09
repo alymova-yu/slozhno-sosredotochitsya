@@ -1,11 +1,5 @@
-/*
-  Специально для тёмной темы при наличии класса,
-  здесь окажутся стили, которые нужно переопределить принудительно,
-  переключая тему
-*/
-
 :root .theme_dark {
-  --title-text:#DB00FF;
+  --title-text: #db00ff;
   --accent-color: #ff006f;
   --button-color: var(--accent-color);
   --shadow-color: var(--accent-color);
@@ -14,7 +8,6 @@
   --text-color: #f1b2ce;
   --content-subtitle-color: var(--accent-color);
   --display-rec: flex;
-
 }
 
 .page.theme_dark {
