@@ -8,7 +8,7 @@
   --text-color: #f1b2ce;
   --content-subtitle-color: var(--accent-color);
   --display-rec: flex;
-  --font-main: IBM Plex Mono, sans-serif;
+  --font-main: IBM Plex Mono;
   --font-size-normal: 18px;
   --space: 20px;
 }
